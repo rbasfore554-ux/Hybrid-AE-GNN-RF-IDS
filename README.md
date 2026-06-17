@@ -96,7 +96,8 @@ Performance is evaluated using:
 
 ## Proposed Architecture
 
-![Architecture](figures/final_architecture.png)
+<img width="1024" height="1536" alt="image8" src="https://github.com/user-attachments/assets/5db0d885-859b-46b4-b090-0078c4d10e57" />
+
 
 ---
 
