@@ -36,8 +36,8 @@ The dataset contains both benign and malicious network traffic, including:
 
 ---
 ## Dataset Distribution
+<img width="5938" height="3534" alt="dataset_distribution" src="https://github.com/user-attachments/assets/8080f8ed-2b0b-47e6-b2b4-f0801051381c" />
 
-![Dataset Distribution](results/dataset_distribution.png)
 
 ## Methodology
 
@@ -99,7 +99,8 @@ Performance is evaluated using:
 
 ## Proposed Architecture
 
-<img width="1024" height="1536" alt="image8" src="https://github.com/user-attachments/assets/5db0d885-859b-46b4-b090-0078c4d10e57" />
+<img width="2942" height="1166" alt="final_architecture" src="https://github.com/user-attachments/assets/66c4bb9b-f712-4588-9c23-993e1f96f6fb" />
+
 
 
 ---
