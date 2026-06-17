@@ -120,23 +120,27 @@ Performance is evaluated using:
 
 ### Confusion Matrix
 
-![Confusion Matrix](results/confusion_matrix.png)
+<img width="1786" height="1380" alt="confusion_matrix" src="https://github.com/user-attachments/assets/add3707d-442b-4d35-8188-95467c07ab8d" />
+
 
 ### ROC Curve
+<img width="1702" height="1361" alt="roc_curve" src="https://github.com/user-attachments/assets/d38d521d-a66b-40b8-a76e-70ca19ca4a30" />
 
-![ROC Curve](results/roc_curve.png)
 
 ### Precision Recall Curve
 
-![PR Curve](results/pr_curve.png)
+<img width="1770" height="1466" alt="pr_curve" src="https://github.com/user-attachments/assets/65e24b0f-4381-4104-97df-9957fde48de3" />
+
 
 ### GNN Training Loss
 
-![Training Loss](results/gnn_training_loss.png)
+<img width="1841" height="1407" alt="gnn_training_loss" src="https://github.com/user-attachments/assets/a7faf74a-8eaa-4096-a92c-6debd6494423" />
+
 
 ### GNN Accuracy
 
-![GNN Accuracy](results/gnn_accuracy.png)
+<img width="1389" height="1118" alt="gnn_accuracy" src="https://github.com/user-attachments/assets/2cfed7bb-6e59-4d0a-adb3-964c9b643cdb" />
+
 
 ---
 
