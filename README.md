@@ -35,6 +35,9 @@ The dataset contains both benign and malicious network traffic, including:
 - Infiltration
 
 ---
+## Dataset Distribution
+
+![Dataset Distribution](results/dataset_distribution.png)
 
 ## Methodology
 
@@ -102,8 +105,6 @@ Performance is evaluated using:
 ---
 
 ## Experimental Results
-
-### Performance Metrics
 
 | Metric | Value |
 |----------|----------|
@@ -209,6 +210,13 @@ The repository includes trained models:
 These models can be directly loaded for inference and experimentation.
 
 ---
+## Conclusion
+
+The proposed Hybrid AE-GNN-RF framework effectively combines
+feature compression, graph representation learning, and ensemble
+classification for intrusion detection. Experimental results on
+CICIDS2017 demonstrate high detection capability with
+98% accuracy and 99.8% ROC-AUC.
 
 ## Future Work
 
@@ -225,13 +233,11 @@ Potential improvements include:
 
 ## Author
 
-**Raja Basfore**
+Raja Basfore
 
 B.Tech in Computer Science & Engineering
 
-Assam down town University
-
-India
+Assam down town University, India
 
 ---
 
