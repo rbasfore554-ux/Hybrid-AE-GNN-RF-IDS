@@ -1,0 +1,7 @@
+Model,Recall,F1-score,ROC-AUC
+RF,0.95,0.95,0.98
+AE,0.95,0.94,0.97
+GNN,0.96,0.96,0.98
+AE + RF,0.97,0.96,0.99
+GNN + RF,0.97,0.96,0.99
+AE + GNN + RF (Proposed),0.99,0.96,0.999
